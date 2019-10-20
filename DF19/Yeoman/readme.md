@@ -1,6 +1,6 @@
-# Welcome to "MyProject" 
+# Welcome to "Yeoman" 
 
-Welcome
+Welcome to my Yeoman App
 
 
 ````
@@ -17,7 +17,7 @@ Welcome
 
 "packageDirectories" : [
     {
-      "path": "force-app",
+      "path": "App",
       "default": true
     }
 ]
