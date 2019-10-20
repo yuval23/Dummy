@@ -1,6 +1,6 @@
-# Welcome to "MyProject" 
+# Welcome to "Mine" 
 
-Welcom
+WELCOME
 
 
 ````
